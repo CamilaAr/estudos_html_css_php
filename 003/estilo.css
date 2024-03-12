@@ -1,7 +1,29 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 p {
     color:deeppink;
     font-size: 18px;
 }
 small{
     color:blueviolet;
+}
+h1{
+    background-color: darksalmon;
+    padding: 20px;
+    margin:30px ;
+    border: 10px solid thistle;
+    box-shadow: 0px 0px 1px 1px inset chartreuse;
+}
+
+a{
+    text-decoration: none;
+    color:gold;
+}
+a:hover{
+    color:darkturquoise;
+}
+
+a:visited {
+    color: indigo;
 }
